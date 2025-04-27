@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Wisloo
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Java and Android Studio
 - 😄 Pronouns: He/Him
 
 <!---
