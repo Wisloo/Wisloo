@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wisloo
 - 😄 Pronouns: He/Him
-- ![Uploading MuaKissGIF.gif…]()
 
 
 <!---
