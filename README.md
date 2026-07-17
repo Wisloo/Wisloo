@@ -46,15 +46,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wisloo&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Wisloo&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisloo&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wisloo&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wisloo&theme=radical&background=0d1117&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Wisloo&theme=radical&background=0d1117&hide_border=true" />
 </p>
 
 ---
