@@ -7,10 +7,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Wisloo&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wisloo&layout=compact&theme=radical" />
 </p>
 
