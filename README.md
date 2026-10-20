@@ -10,10 +10,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wisloo&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Wisloo&theme=radical" />
-</p>
-
 ---
 
 ## 📫 Get in Touch
